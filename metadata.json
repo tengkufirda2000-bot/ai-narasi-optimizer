@@ -1,0 +1,7 @@
+{
+  "name": "AI Narration Optimizer",
+  "description": "An application that takes a user's description of an activity and uses AI to generate a more professional and optimized narrative suitable for reports.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
